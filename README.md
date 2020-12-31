@@ -14,7 +14,7 @@ yarn
 yarn build
 yarn start
 ```
-Tu run tests:
+To run tests:
 ```
 yarn test
 ```
